@@ -36,20 +36,7 @@ npm start
 ```
 The application will be available at `http://localhost:3000`.
 
-### Building for Production
-To create a production build, run:
-```
-npm run build
-```
-This will generate an optimized build of the application in the `build` directory.
-
 ## Usage
 - Add stocks to your portfolio by entering the stock symbol.
 - View the stock price graph to analyze trends.
 - Click on a stock to see detailed information.
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
